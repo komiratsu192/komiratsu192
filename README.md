@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm just sus user in Github.
+Interested in:
+Flutter, Python
+Also Discord, Security Features(i.e. Yubikey)
+
